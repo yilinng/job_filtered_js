@@ -123,7 +123,7 @@ function createTag(e){
  
 
    const loadPost = async () => {
-    try {
+    try {                        //fetch data 
         const res = await fetch('https://yilinng.github.io/data.json');
         dataJson = await res.json();
         displayPost(dataJson);
