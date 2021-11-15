@@ -1,7 +1,5 @@
 # Frontend Mentor - Job Listings Challenge
 
-#demo (https://yilinng.github.io/)
-
 ![Design preview for the Job Listings coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
